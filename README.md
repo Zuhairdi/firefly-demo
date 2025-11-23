@@ -2,6 +2,9 @@
 
 A tiny Nuxt 4 demo that renders animated fireflies you can drop onto any page or background.
 
+## Preview
+![Screenshot of fireflies effect](screenshot.png)
+
 ## Requirements
 - Node 18.18+ (tested with Node 20.x)
 - npm 9+ (or any package manager you prefer)
